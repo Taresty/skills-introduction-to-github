@@ -49,3 +49,13 @@ In this exercise, you will:
 ---
 
 &copy; 2025 GitHub &bull; [Code of Conduct](https://www.contributor-covenant.org/version/2/1/code_of_conduct/code_of_conduct.md) &bull; [MIT License](https://gh.io/mit)
+## Game: Guess the Number
+
+This repository includes a small command-line game written in Python. To play:
+
+```bash
+python guess_number.py
+```
+
+Follow the prompts to guess the secret number between 1 and 100.
+
